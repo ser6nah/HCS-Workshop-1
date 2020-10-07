@@ -6,8 +6,10 @@ Welcome to my website!
 
 A new “Education” page on the website.
 
+Screenshots in separate link provided on Google form.
+
 ### Added Feature #2
 
 A "button" that displays more text on the "About" page.
 
-Screenshots
+Screenshots in separate link provided on Google form.
