@@ -2,14 +2,14 @@
 
 Welcome to my website!
 
-### Added Feature #1
+### Education Page
 
 A new “Education” page on the website.
 
 Screenshots in separate link provided on Google form.
 
-### Added Feature #2
+### About Page "Button"
 
-A "button" that displays more text on the "About" page.
+A "button" that displays more text on the "About" page when clicked.
 
 Screenshots in separate link provided on Google form.
