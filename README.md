@@ -1,6 +1,6 @@
 ## HCS Workshop: React Profile
 
-Welcome to my website!
+Welcome to my personal website.
 
 ### Education Page
 
