@@ -1,4 +1,4 @@
-## Serena Han 
+## HCS Workshop: React Profile
 
 Welcome to my website!
 
